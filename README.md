@@ -1,10 +1,7 @@
 <div align='center'>
           
 ## 👨🏽‍💻 Hello! Welcome to my Github profile.
-### My name is Felipe Sieiro
-### - 💼 Estagiário de Front-end na [F1rst Digital Service](https://programahabilidadenaotemlimite.com/wp-content/uploads/2023/09/image001.png)
-### - 🎓 Estudante de Análise e Desenvolvimento de Sistemas na [FIAP](https://wp.eucapacito.com.br/wp-content/uploads/2021/11/FIAP-WHITE-1.png) 
-### - 🚀 Apaixonado por tecnologia e desenvolvimento web
+### My name is FELIPE SIEIRO
 #### Visit my [LinkedIn](https://www.linkedin.com/in/felipesieiro/) profile!
 </div>
   
