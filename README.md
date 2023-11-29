@@ -46,11 +46,5 @@ ___
 
  ## ⚡ Tech Stack         
       
-## Estatísticas de Contribuição
-
-[![Estatísticas de Contribuição](https://github-readme-stats.vercel.app/api?username=FelipeSieiro&show_icons=true&theme=radical)](https://github.com/FelipeSieiro)
-
-## Gráfico de Linguagens Mais Usadas
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeSieiro&layout=compact&theme=radical)](https://github.com/FelipeSieiro)
+[![Estatísticas de Contribuição](https://github-readme-stats.vercel.app/api?username=FelipeSieiro&show_icons=true&theme=radical)](https://github.com/FelipeSieiro) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeSieiro&layout=compact&theme=radical)](https://github.com/FelipeSieiro)
           
