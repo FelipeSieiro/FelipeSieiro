@@ -1,7 +1,10 @@
 <div align='center'>
           
-## 👋 Hello! Welcome to my Github profile.
-### My name is Felipe Sieiro and my nickname is "FelipeSieiro"!
+## 👨🏽‍💻 Hello! Welcome to my Github profile.
+### My name is Felipe Sieiro
+### - 💼 Estagiário de Front-end na [F1rst Digital Service](https://programahabilidadenaotemlimite.com/wp-content/uploads/2023/09/image001.png)
+### - 🎓 Estudante de Análise e Desenvolvimento de Sistemas na [FIAP](https://wp.eucapacito.com.br/wp-content/uploads/2021/11/FIAP-WHITE-1.png) 
+### - 🚀 Apaixonado por tecnologia e desenvolvimento web
 #### Visit my [LinkedIn](https://www.linkedin.com/in/felipesieiro/) profile!
 </div>
   
@@ -21,7 +24,7 @@ ___
 
 ### 🧩 Libraries & Framework
 
-![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=flat)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
