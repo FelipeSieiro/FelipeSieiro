@@ -1,13 +1,11 @@
 <div align='center'>
           
-## 👨🏽‍💻 Hello! Welcome to my Github profile.
-### My name is FELIPE SIEIRO
+## 👋🏽 Hello! Welcome to my Github profile.
+### My name is Felipe Sieiro 👨🏽‍💻
 #### Visit my [LinkedIn](https://www.linkedin.com/in/felipesieiro/) profile!
 </div>
   
 ___
-          
-## ⚡ Tech Stack
 
 ### 🚀 Languages
 
