@@ -9,7 +9,7 @@
 <div align = 'center'>
   <a href="https://github.com/FelipeSieiro">
     
-  ![FelipeSieiro GitHub stats](https://github-readme-stats.vercel.app/api?username=FelipeSieiro&show_icons=true&theme=radical) <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeSieiro&show_icons=true&theme=radical"/>
+  ![FelipeSieiro GitHub stats](https://github-readme-stats.vercel.app/api?username=FelipeSieiro&show_icons=true&theme=radical) <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeSieiro&show_icons=true&theme=radical"/>
 </div>
   
 ___
