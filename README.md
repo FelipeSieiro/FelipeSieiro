@@ -6,11 +6,10 @@
 </div>
 <br>
 
-<div align='center'>
+<div align = 'center'>
   <a href="https://github.com/FelipeSieiro">
     
-  ![FelipeSieiro GitHub stats](https://github-readme-stats.vercel.app/api?username=FelipeSieiro&show_icons=true&theme=radical)
-  <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeSieiro&show_icons=true&theme=radical"/>
+  ![FelipeSieiro GitHub stats](https://github-readme-stats.vercel.app/api?username=FelipeSieiro&show_icons=true&theme=radical) <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeSieiro&show_icons=true&theme=radical"/>
 </div>
   
 ___
@@ -47,10 +46,4 @@ ___
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-
-___
-
- ## ⚡ Tech Stack         
-      
-[![Estatísticas de Contribuição](https://github-readme-stats.vercel.app/api?username=FelipeSieiro&show_icons=true&theme=radical)](https://github.com/FelipeSieiro) <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeSieiro&layout=compact&langs_count=7&layout=compact&theme=radical"/>
           
