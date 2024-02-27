@@ -4,6 +4,14 @@
 ### My name is Felipe Sieiro 👨🏽‍💻
 #### Visit my [LinkedIn](https://www.linkedin.com/in/felipesieiro/) profile!
 </div>
+<br>
+
+<div align='center'>
+  <a href="https://github.com/FelipeSieiro">
+    
+  ![FelipeSieiro GitHub stats](https://github-readme-stats.vercel.app/api?username=FelipeSieiro&show_icons=true&theme=radical)
+  <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeSieiro&show_icons=true&theme=radical"/>
+</div>
   
 ___
 
